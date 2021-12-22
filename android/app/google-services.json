@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545605069977",
+    "project_id": "thunder-chat-d747f",
+    "storage_bucket": "thunder-chat-d747f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545605069977:android:6f65ec8b2271b4acd15c08",
+        "android_client_info": {
+          "package_name": "com.example.thunder_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545605069977-7e9n4uksgqis4tor5dafou9m7dol2abb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEcbKBFvuPGeta6HKVydZAf1q6pNRu6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545605069977-7e9n4uksgqis4tor5dafou9m7dol2abb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
