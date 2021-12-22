@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+# OUTPUT
+
+![final merge](https://user-images.githubusercontent.com/59467842/147090169-c41ed549-abeb-4490-ab39-4e663b9ae6e8.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
